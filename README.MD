@@ -1,7 +1,7 @@
 
 
 # My Message In A Bottle
-[![Build Status](https://app.travis-ci.com/fcarli3/message-in-a-bottle.svg?token=3N4JdWYn7QpiZ6F6wFdB&branch=main)](https://app.travis-ci.com/fcarli3/message-in-a-bottle) [![Coverage Status](https://coveralls.io/repos/github/fcarli3/message-in-a-bottle/badge.svg?branch=main&t=vyPoTB)](https://coveralls.io/github/fcarli3/message-in-a-bottle?branch=main)
+[![Build Status](https://app.travis-ci.com/fcarli3/message-in-a-bottle.svg?branch=main)](https://app.travis-ci.com/fcarli3/message-in-a-bottle) [![Coverage Status](https://coveralls.io/repos/github/fcarli3/message-in-a-bottle/badge.svg?branch=main&t=vyPoTB)](https://coveralls.io/github/fcarli3/message-in-a-bottle?branch=main)
 
 ## Directory Structure
 ```
