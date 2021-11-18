@@ -46,7 +46,7 @@
     <br>
     <input type="text" id="myInput" onkeyup="search()" placeholder="Search recipient">
     {% if "id_message" in form %}
-    <form action='/message/forward/{{form["id_message"]}}' method='POST'>
+    <form action='/message/forward/{{form["id_message"]}}' method='GET'>
       {% else %}
       <form method="get" action="/message/send" class="inline">
         {% endif %}
