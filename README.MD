@@ -84,3 +84,9 @@ To run tests in isolated environemnts it has been used Tox using `tox` command f
 
 ### Output
 ![image info](./tests.png)
+
+## Authors
+- [Francesco Carli](https://github.com/fcarli3)
+- [Antonio Pace](https://github.com/pacant)
+- [Giulio Piva](https://github.com/gystemd)
+- [Alessandro Cecchi](https://github.com/PaolinoRossi)
